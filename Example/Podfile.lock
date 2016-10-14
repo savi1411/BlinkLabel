@@ -1,0 +1,16 @@
+PODS:
+  - BlinkLabel (0.1.0)
+
+DEPENDENCIES:
+  - BlinkLabel (from `../`)
+
+EXTERNAL SOURCES:
+  BlinkLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BlinkLabel: 776f9f959efad8a725cc03697a08c673628aedc5
+
+PODFILE CHECKSUM: 775e3bfaaeedfa8d30115fb21abafe42cb83c297
+
+COCOAPODS: 1.0.1
